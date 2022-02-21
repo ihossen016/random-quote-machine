@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Redressed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Redressed&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ main {
 }
 .quote {
   width: 40vw;
-  height: 45vh;
+  height: 40vh;
   padding: 1vw;
   text-align: center;
   background-color: #f8f7ff;
@@ -28,7 +28,7 @@ main {
 }
 .quote-part h1 {
   font-size: 2.5vw;
-  font-family: "Great Vibes", cursive;
+  font-family: "Redressed", cursive;
   padding: 2vw 0;
 }
 .quote-part h4 {
