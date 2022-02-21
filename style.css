@@ -64,3 +64,40 @@ main {
   font-size: 0.9vw;
   padding: 0.9vw;
 }
+
+@media only screen and (max-width: 820px) {
+  .quote {
+    height: 25vw;
+  }
+  .quote-part h1 {
+    font-size: 3.5vw;
+  }
+  .quote-part h4 {
+    font-size: 2vw;
+  }
+  .action a {
+    font-size: 3vh;
+  }
+  .action button {
+    font-size: 1vh;
+    padding: 1vh;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .quote {
+    height: 25vh;
+  }
+  .quote-part h1 {
+    font-size: 3vh;
+  }
+  .quote-part h4 {
+    font-size: 1.5vh;
+  }
+  .action a {
+    font-size: 3vh;
+  }
+  .action button {
+    font-size: 1vh;
+    padding: 1vh;
+  }
+}
